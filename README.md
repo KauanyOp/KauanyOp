@@ -1,8 +1,8 @@
 # ✨ Oii, sou a Kauany ✨  
 
 👩‍💻 Estudante de Desenvolvimento Web  
-🎨 Apaixonada por desenvolvimento web, especialmente na criação de interfaces funcionais 
-🌐 Explorando a integração entre tecnologia e experiência do usuário. 
+🎨 Apaixonada por desenvolvimento web, especialmente na criação de interfaces funcionais   
+🌐 Explorando a integração entre tecnologia e experiência do usuário  
 🌱 Sempre aprendendo e construindo projetos que me desafiem  
 
 ---
